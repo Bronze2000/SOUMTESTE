@@ -35,7 +35,7 @@ header{height: 400px;
         grid-template-columns: 25vw 25vw 25vw;
         column-gap: 5vw;
         margin: 5vw;}
-    .item-img{width: 40vw;}
+    .item-img{width: 25vw;}
 
     button{background-color: orange;
         height: 50px;
