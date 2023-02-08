@@ -1,7 +1,7 @@
 .carrossel{
     display: grid;
     justify-content: center;
-    grid-template-columns: 220px 220px 220px 220px 220px 220px;
+    grid-template-columns: 200px 200px 200px 200px 200px 200px;
     column-gap: 40px;
     margin: 80px;
 
@@ -31,13 +31,13 @@ header{height: 400px;
     .carrossel{
         display: grid;
         justify-content: center;
-        grid-template-columns: 220px 220px;
-        column-gap: 40px;
+        grid-template-columns: 200px 200px;
+        column-gap: 20px;
         margin: 80px;}
 
     button{background-color: orange;
-        height: 80px;
-         width: 150px;}
+        height: 50px;
+         width: 100px;}
 }
 
 
