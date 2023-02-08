@@ -1,0 +1,24 @@
+.carrossel{
+    display: flex;
+    justify-content: center;
+}
+
+.textoproduto{
+    display: grid;
+    text-align: center;
+
+}
+.produto{
+    height: 250px;
+    
+}
+button{background-color: orange;
+        height: 100px;
+        width: 400px;}
+
+nav{display: flex;
+    justify-content: center;
+    background-color: orange;}
+
+header{height: 400px;
+    background-color: orange;}
